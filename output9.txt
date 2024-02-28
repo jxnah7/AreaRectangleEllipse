@@ -1,0 +1,6 @@
+
+The area of the rectangle with base 23.81 and height  9.57 is 227.90
+
+
+The area of the ellipse with radius  8.46 and radius 10.49 is 278.80
+
